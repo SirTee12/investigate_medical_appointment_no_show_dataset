@@ -1,4 +1,4 @@
-# investigate-_a-_dataset_on_the_medical_appointment_no_show_dataset
+# investigate_medical_appointment_no_show_dataset
 This dataset collects information from 100k medical appointments in Brazil and is focused on the question of whether or not patients show up for their appointment.
 This dataset collects information from 100k medical appointments in Brazil and is focused on the question of whether or not patients show up for their appointment. A number of characteristics about the patient are included in each row. The daraset contains 13 columns and each row contains information about the patient.
 
