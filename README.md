@@ -7,7 +7,7 @@ This dataset collects information from 100k medical appointments in Brazil and i
 + ScheduledDay and AppointmentDay signifiies the date and time the patients set up their appointment and the and when they were supposed to come for the appointment respectively.
 + Neighbourhood indicates the location of the hospital.
 + Scholarship indicates whether or not the patient is enrolled in Brasilian welfare program Bolsa Familia.
-+ Hipertension, Scholarship, Diabetes, Alcoholism, Handcap and SMS_recieved indicate the medical condition of the patients with values 1(which indicate the person has the condition) and 0(which indicate the patient doesn't have the condition
++ Hypertension, Scholarship, Diabetes, Alcoholism, Handcap and SMS_recieved indicate the medical condition of the patients with values 1(which indicate the person has the condition) and 0(which indicate the patient doesn't have the condition
 + No-show is categorical where yes indicate the patient didn't show up for the appointment and no indicates that the patient showed up
 
 <h1> Conclusion</h1>
