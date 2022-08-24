@@ -11,6 +11,7 @@ Hipertension, Scholarship, Diabetes, Alcoholism, Handcap and SMS_recieved indica
 No-show is categorical where yes indicate the patient didn't show up for the appointment and no indicates that the patient showed up
 
 <h1> Conclusion</h1>
+
 > In the first section, relationship between hypertension and No-show was investigated and i found out that hypertension might not be the reason for patients not showing up as a large percentage of them (83%) actually showed up for appointment.
 
 > in the second section, i investigated to see if older patient don't show up for appointment as compared to young patient and it was discovered that older people do show up as well as younger people which led to the conclusion that age might not be a factor for not showing up.
